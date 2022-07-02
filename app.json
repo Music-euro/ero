@@ -2,7 +2,7 @@
     "name": "اهلا بكم في سـورس يــورو",
     "description": "تسمح لك بتشغيل الموسيقي والفيديو في ل=الدردشات الصوتيه.",
     "keywords": ["EURO", "EURO-MUSIC", "موسيقي", "محادثات صوتيه", "تلجرام", "يورو", "يورو ميوزك", "موسيقي خاصه"],
-    "repository": "https://github.com/Music-euro/Muaic.git",
+    "repository": "https://github.com/Music-euro/ero.git",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
