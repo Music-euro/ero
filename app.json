@@ -1,12 +1,12 @@
 {
-    "name": "سورس ايــثــون الصوتي ",
+    "name": "اهلا بكم في سـورس يــورو",
     "description": "تسمح لك بتشغيل الموسيقي والفيديو في ل=الدردشات الصوتيه.",
-    "keywords": ["ELLIOT", "ELLIOT-MUSIC", "موسيقي", "محادثات صوتيه", "تلجرام", "يوكي", "يوكي ميوزك", "موسيقي خاصه"],
-    "repository": "https://github.com/byffyyffu/te",
+    "keywords": ["EURO", "EURO-MUSIC", "موسيقي", "محادثات صوتيه", "تلجرام", "يورو", "يورو ميوزك", "موسيقي خاصه"],
+    "repository": "https://github.com/Music-euro/Muaic.git",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
-            "description": "ضع كود البيروجرام",
+            "description": "ضع كود البروجرام",
             "required": true
         },
         "SESSION2": {
@@ -63,7 +63,7 @@
         "SUDO_USERS": {
             "description": "ضع معرف الادمن.",
             "required": true,
-            "value": "1669178360"
+            "value": "5206922974"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
